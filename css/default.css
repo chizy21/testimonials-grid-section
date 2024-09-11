@@ -121,7 +121,7 @@ section {
 body {
   line-height: 1;
   font-size: 13px;
-  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-family: "Barlow Semi Condensed", sans-serif;
 }
 ol,
 ul {
@@ -165,6 +165,12 @@ main,
 section,
 article {
   container-type: inline-size;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
 }
 
 /* Remove all animations and transitions for people that prefer not to see them */

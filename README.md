@@ -16,7 +16,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Links
 
-- Solution URL: [Chizy's Github](https://github.com/chizy21/four-card-feature-section)
+- Solution URL: [Chizy's Github](https://github.com/chizy21/testimonials-grid-section)
 - Live Site URL: [Netlify site]()
 
 ## My process
